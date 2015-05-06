@@ -12,7 +12,7 @@
     [b]/movies[/b] : set this path to where you wish Couchpotato move your movies to.[br][br]
     [b]Tip:[/b] Set EDGE variable to '1' if you want to always run the last version.
   </Description>
-  <Registry>https://registry.hub.docker.com/u/needo/couchpotato/</Registry>
+  <Registry>https://registry.hub.docker.com/u/ryanm91/couchpotato/</Registry>
   <GitHub>https://github.com/ryanmurray/couchpotato</GitHub>
   <Repository>ryanmurray/couchpotato</Repository>
   <Support>http://lime-technology.com/forum/index.php?topic=33822.0</Support>
